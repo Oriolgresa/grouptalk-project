@@ -6,7 +6,7 @@ import edu.upc.eetac.dsa.grouptalk.entity.AnswerCollection;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 25/10/15.
+ * Created by Oriol on 30/03/16.
  */
 public interface AnswerDAO {
     public Answer createAnswer(String userid, String themeid, String content) throws SQLException;

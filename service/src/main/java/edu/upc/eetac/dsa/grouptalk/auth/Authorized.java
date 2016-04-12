@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.List;
 
 /**
- * Created by Aitor on 25/10/15.
+ * Created by Oriol on 30/03/16.
  */
 public class Authorized {
     private static Authorized instance;

@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 25/10/15.
+ * Created by Oriol on 30/03/16.
  */
 public class AnswerDAOImpl implements AnswerDAO{
     @Override

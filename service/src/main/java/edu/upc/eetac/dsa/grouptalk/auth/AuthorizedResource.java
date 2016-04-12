@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.regex.Pattern;
 
 /**
- * Created by Aitor on 25/10/15.
+ * Created by Oriol on 30/03/16.
  */
 public class AuthorizedResource {
     private String path;

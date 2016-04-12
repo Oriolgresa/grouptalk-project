@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by juan on 27/10/15.
+ * Created by Oriol on 30/03/16.
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class GroupCollection {

@@ -7,7 +7,7 @@ import javax.ws.rs.core.Link;
 import java.util.List;
 
 /**
- * Created by Aitor on 23/10/15.
+ * Created by Oriol on 27/03/16.
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class User {

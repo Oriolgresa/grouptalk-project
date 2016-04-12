@@ -10,7 +10,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 10/10/15.
+ * Created by Oriol on 24/03/16.
  */
 public class AuthTokenDAOImpl implements AuthTokenDAO {
     @Override

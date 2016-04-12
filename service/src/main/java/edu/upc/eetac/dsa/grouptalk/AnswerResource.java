@@ -13,7 +13,7 @@ import java.net.URISyntaxException;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 29/10/15.
+ * Created by Oriol on 30/03/16.
  */
 @Path("answers")
 public class AnswerResource {

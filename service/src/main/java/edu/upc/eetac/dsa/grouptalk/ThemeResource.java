@@ -12,7 +12,7 @@ import java.net.URISyntaxException;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 28/10/15.
+ * Created by Oriol on 30/03/16.
  */
 @Path("themes")
 public class ThemeResource {

@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.dao;
 
 /**
- * Created by Aitor on 24/10/15.
+ * Created by Oriol on 29/03/16.
  */
 public class GroupAlreadyExistsException extends Exception {
 

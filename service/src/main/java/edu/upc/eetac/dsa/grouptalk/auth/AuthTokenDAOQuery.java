@@ -1,7 +1,7 @@
 package edu.upc.eetac.dsa.grouptalk.auth;
 
 /**
- * Created by Aitor on 24/10/15.
+ * Created by Oriol on 30/03/16.
  */
 public interface AuthTokenDAOQuery {
     public final static String UUID = "select REPLACE(UUID(),'-','')";

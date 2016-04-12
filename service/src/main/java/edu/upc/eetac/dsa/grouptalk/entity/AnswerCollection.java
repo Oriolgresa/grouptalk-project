@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Aitor on 25/10/15.
+ * Created by Oriol on 29/03/16.
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class AnswerCollection {

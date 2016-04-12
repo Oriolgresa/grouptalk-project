@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 /**
- * Created by Aitor on 24/10/15.
+ * Created by Oriol on 29/03/16.
  */
 public class GroupDAOImpl implements GroupDAO {
 

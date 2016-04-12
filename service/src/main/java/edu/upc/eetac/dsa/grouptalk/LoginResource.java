@@ -14,7 +14,7 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.SecurityContext;
 import java.sql.SQLException;
 /**
- * Created by Aitor on 29/10/15.
+ * Created by Oriol on 29/03/16.
  */
 @Path("login")
 public class LoginResource {

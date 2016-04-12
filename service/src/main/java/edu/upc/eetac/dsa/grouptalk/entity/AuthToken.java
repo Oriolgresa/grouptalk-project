@@ -7,7 +7,7 @@ import javax.ws.rs.core.Link;
 import java.util.List;
 
 /**
- * Created by Aitor on 24/10/15.
+ * Created by Oriol on 29/03/16.
  */
 @JsonInclude(JsonInclude.Include.NON_NULL)
 public class AuthToken {
